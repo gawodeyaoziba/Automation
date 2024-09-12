@@ -1,0 +1,47 @@
+{
+    "Path": [
+        {
+            "log_path": "D:\\xixun_ui\\log",
+            "PublicImg": "D:\\xixun_ui\\img\\PublicImg\\",
+            "report": "D:\\xixun_ui\\report\\",
+            "adb_path": "D:\\toc\\IT\\adb\\platform-tools\\adb.exe"
+        }
+    ],
+    "CU": [
+        {
+            "CU_exel_path": "D:\\xixun_ui\\exel\\ChimeUp测试用例.xlsx",
+            "CU_img": "D:\\xixun_ui\\img\\ChimeUp\\"
+        }
+    ],
+    "BC": [
+        {
+            "BC_exel_path": "D:\\xixun_ui\\exel\\BabeConnect测试用例.xlsx",
+            "BC_img": "D:\\xixun_ui\\img\\BabeConnect\\"
+        }
+    ],
+    "mapping_table": [
+        {
+            "${BC}": "path/to/BC_image.png/",
+            "${CU}": "path/to/CU_image.png/",
+            "${text02}": "D:\\xixun_ui\\img\\Uest02\\",
+            "${text01}": "D:\\xixun_ui\\img\\Uest01\\"
+        }
+    ],
+    "Slide_main": [
+        {
+            "home_page": "D:\\xixun_ui\\img\\PublicImg\\xx.png"
+        }
+    ],
+    "Texe01": [
+        {
+            "Text_BC": "D:\\xixun_ui\\exel\\测试BC2.xlsx",
+            "BC_img": "D:\\xixun_ui\\img\\Uest01\\"
+        }
+    ],
+    "Texe02": [
+        {
+            "Text_CU": "D:\\xixun_ui\\exel\\测试CU2.xlsx",
+            "BC_img": "D:\\xixun_ui\\img\\Uest02\\"
+        }
+    ]
+}
